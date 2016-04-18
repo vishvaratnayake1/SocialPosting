@@ -13,7 +13,7 @@ Key objectives :
 
 1. How well the code is organised. 
 2. Ensure that the once can easily add support to additional 3rd party integrations with ease.
-3. Make it a composer Package ( Addional ) 
+3. Make it a composer Package (additional) 
 
 
 Hints :
