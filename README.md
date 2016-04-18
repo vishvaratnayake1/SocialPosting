@@ -22,4 +22,4 @@ Hints :
 2. Documentation / Comments
 3. PSR complience
 
-Once done , submit a pull request.
+Once done , submit a pull request and drop an email to jobs@riverviewms.com
