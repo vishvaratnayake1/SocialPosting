@@ -13,6 +13,8 @@ You are allowed to use 3rd party packages with composer , but refrain from using
 
 Also add a Instructions.md file that explains your file structure and design considerations architectural decisions made. 
 
+If you use composer , **do not** commit the vendor folder. 
+
 Key objectives :
 
 1. How well the code is organised. 
