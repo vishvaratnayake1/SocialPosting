@@ -14,5 +14,5 @@ design considerations
 	- selected social media shoud posted on same time
 
 couldnt done to post perticuler account ,twitter messege will be posted to my account
- its password - dharmasokecollege
+ its password - 1234567890
 email - vishva.saki.conc@gmail.com
