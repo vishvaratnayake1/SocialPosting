@@ -12,3 +12,7 @@ structure - index - viewer
 design considerations 
 	- credentials of each social media apps are shouldnt be changed of expose
 	- selected social media shoud posted on same time
+
+couldnt done to post perticuler account ,twitter messege will be posted to my account
+ its password - dharmasokecollege
+email - vishva.saki.conc@gmail.com
