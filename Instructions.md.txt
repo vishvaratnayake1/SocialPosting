@@ -1,0 +1,18 @@
+dindnt use any frame works and facebook SDK and twitter SDK s are used
+fazard design patern is used 
+basic oop concepts 
+PSR-1.PSR-0,PSR-4 as PSR complience
+
+structure - index - viewer
+	    comm_controller - controller
+	    post_twitter , post_facebook  - processes
+	    config - credentials
+	    
+
+design considerations 
+	- credentials of each social media apps are shouldnt be changed of expose
+	- selected social media shoud posted on same time
+
+couldnt done  post to perticuler account ,twitter messege will be posted to my account
+ its password - 1234567890
+email - vishva.saki.conc@gmail.com
